@@ -1,0 +1,50 @@
+input[type="radio"] {
+  outline: none;
+  accent-color: #FFF000;
+  width: 20px;
+  height: 20px;
+}
+
+input[type="number"] {
+  width: 30px;
+  background-color: #000000;
+  text-align: center;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: solid 1px #818181;
+  color: #FF0000;
+  outline: none;
+  font-family: "Anton";
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type="range"] {
+  width:25%;
+  accent-color: #FF0000;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #000000;
+  transition: 0.5s;
+  padding: 1em;
+}
+
+.contatos {
+  text-align: center;
+}
+
+.contatos img {
+  width:32px;
+  height:32px;
+  background-color: #FFFFFF;
+  margin-top: 2em;
+  padding: 1em;
+  border-radius: 0.5em 0.5em;
+}
