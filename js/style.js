@@ -17,7 +17,7 @@ caixaEntradaCSS.style.textAlign = "center";
 
 let caixadeEntradaTextCSS = document.querySelector("#mensagem");
 caixadeEntradaTextCSS.style.width = "75%";
-caixadeEntradaTextCSS.style.height = "3.5em";
+caixadeEntradaTextCSS.style.height = "4.5em";
 caixadeEntradaTextCSS.style.fontFamily = "Anton";
 caixadeEntradaTextCSS.style.fontSize = "1.5em";
 caixadeEntradaTextCSS.style.backgroundColor = "#000000";
@@ -87,7 +87,7 @@ caixadeSaidaCSS.style.color = "#FFFFFF";
 
 let caixadeSaidaTextCSS = document.querySelector("#resultado");
 caixadeSaidaTextCSS.style.width = "70%";
-caixadeSaidaTextCSS.style.height = "3.5em";
+caixadeSaidaTextCSS.style.height = "4em";
 caixadeSaidaTextCSS.style.color = "#FFFFFF";
 caixadeSaidaTextCSS.style.fontFamily = "Anton";
 caixadeSaidaTextCSS.style.fontSize = "1.5em";
